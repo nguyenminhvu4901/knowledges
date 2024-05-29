@@ -1,6 +1,6 @@
 Sơ đồ trạng thái của Git
 
-![alt text](gitflow.png)
+![alt text](img/gitflow.png)
 
 ￼
 
